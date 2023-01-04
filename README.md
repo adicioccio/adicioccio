@@ -1,7 +1,7 @@
- ### 👋 Hi i'm Adam Di Cioccio,
+ ### 👋 Hi there! My name is Adam Di Cioccio.
 
  ### 📫 Email: adamdicioccio@gmail.com
- ### 🌐Website: https://dicioccio.me/
+ ### 🌐 Website: https://dicioccio.me/
 
 <!--
 **adicioccio/adicioccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
