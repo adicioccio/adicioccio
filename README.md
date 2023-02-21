@@ -1,12 +1,14 @@
-<h1>👋 Hi there! My name is Adam Di Cioccio.</h1>
-<h3>Computer Enginnering Graduate.</h3>
+<h2>👋 Hi there, I'm Adam Di Cioccio!</h2>
+<h3>Computer Engineer</h3>
 
-🎓 Alumni: Algonquin College - Computer Engineering Technologies
+ ### 🎓 Alumni: Algonquin College - Computer Engineering Technologies and Computing Sciences
+ ### 🌱 Recent Projects: C++ Game in Unreal Engine 5, Tinder-style rental app using React-Native JS 
  ### 📫 Email: adamdicioccio@gmail.com
  ### 🌐 Website: https://dicioccio.me/
-
+<p>
 <a href="https://www.linkedin.com/in/adam-di-cioccio-9935631ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamdicioccio" height="30" width="40" /></a>
-
+<--- Connect with me on LinkedIN
+</p>
 
 <!--
 **adicioccio/adicioccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
