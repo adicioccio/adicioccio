@@ -7,7 +7,7 @@
  ### 🌐 Website: https://dicioccio.me/
 <p>
 <a href="https://www.linkedin.com/in/adam-di-cioccio-9935631ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamdicioccio" height="30" width="40" /></a>
-<--- Connect with me on LinkedIN
+ <strong><--- Connect with me on LinkedIN</strong>
 </p>
 
 <!--
