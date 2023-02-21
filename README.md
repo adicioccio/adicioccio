@@ -1,9 +1,5 @@
 `👋 Hi there, I'm Adam Di Cioccio!`
-<h3>Computer Engineer</h3>
 =====
-
-
-
  ### 🎓 Alumni: Algonquin College - Computer Engineering Technologies and Computing Sciences
  ### 🌱 Recent Projects: C++ Game in Unreal Engine 5, Tinder-style rental app using React-Native JS 
  ### 📫 Email: adamdicioccio@gmail.com
