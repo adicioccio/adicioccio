@@ -1,7 +1,7 @@
 <h1>👋 Hi there! My name is Adam Di Cioccio.</h1>
 <h3>Computer Enginnering Graduate.</h3>
 
- ### 🎓 Alumni: Algonquin College - Computer Engineering Technologies
+🎓 Alumni: Algonquin College - Computer Engineering Technologies
  ### 📫 Email: adamdicioccio@gmail.com
  ### 🌐 Website: https://dicioccio.me/
 
