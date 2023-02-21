@@ -1,7 +1,13 @@
- ### 👋 Hi there! My name is Adam Di Cioccio.
+<h1>👋 Hi there! My name is Adam Di Cioccio.</h1>
+<h2>Computer Enginnering Graduate.</h2>
 
+ ### 🎓 Alumni: Algonquin College - Computer Engineering Technologies
  ### 📫 Email: adamdicioccio@gmail.com
  ### 🌐 Website: https://dicioccio.me/
+
+<h3>Let's Connect!</h3>
+<a href="https://www.linkedin.com/in/adam-di-cioccio-9935631ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamdicioccio" height="30" width="40" /></a>
+
 
 <!--
 **adicioccio/adicioccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
