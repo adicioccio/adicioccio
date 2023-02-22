@@ -5,7 +5,7 @@
 <h3>🎓Alumni: Algonquin College - Computer Engineering Technologies and Computing Sciences</h3>
 <h3>🌱 Currently Working On: C++ Game in Unreal Engine 5, Tinder-style rental app using React-Native JS</h3>
 <h3>📫 Email: adamdicioccio@gmail.com</h3>
-<h3>🌐 Website: https://dicioccio.me/</h3>
+<h3>🌐 Website: <a href="https://dicioccio.me/">dicioccio.me</a></h3>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
