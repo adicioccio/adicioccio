@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+`👋 Hi there, I'm Adam Di Cioccio!`
+=====
+ ### 🎓Alumni: Algonquin College - Computer Engineering Technologies and Computing Sciences
+ ### 🌱 Recent Projects: C++ Game in Unreal Engine 5, Tinder-style rental app using React-Native JS 
+ ### 📫 Email: adamdicioccio@gmail.com
+ ### 🌐 Website: https://dicioccio.me/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adicioccio&label=Profile%20views&color=0e75b6&style=flat" alt="adicioccio" /> </p>
 
 - 🔭 I’m currently working on **Unreal Engine 5**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adam di cioccio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam di cioccio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adam-di-cioccio-9935631ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam di cioccio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
