@@ -2,10 +2,10 @@
 =====
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adicioccio&label=Profile%20views&color=0e75b6&style=flat" alt="adicioccio" /> </p>
  
- <h2>🎓Alumni: Algonquin College - Computer Engineering Technologies and Computing Sciences</h2>
- ### 🌱 Currently Working On: C++ Game in Unreal Engine 5, Tinder-style rental app using React-Native JS 
- ### 📫 Email: adamdicioccio@gmail.com
- ### 🌐 Website: https://dicioccio.me/
+<h2>🎓Alumni: Algonquin College - Computer Engineering Technologies and Computing Sciences</h2>
+<h2>🌱 Currently Working On: C++ Game in Unreal Engine 5, Tinder-style rental app using React-Native JS</h2>
+<h2>📫 Email: adamdicioccio@gmail.com</h2>
+<h2>🌐 Website: https://dicioccio.me/</h2>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
