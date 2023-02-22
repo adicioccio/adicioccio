@@ -1,13 +1,11 @@
 `👋 Hi there, I'm Adam Di Cioccio!`
 =====
  ### 🎓Alumni: Algonquin College - Computer Engineering Technologies and Computing Sciences
- ### 🌱 Recent Projects: C++ Game in Unreal Engine 5, Tinder-style rental app using React-Native JS 
+ ### 🌱 Currently Working On: C++ Game in Unreal Engine 5, Tinder-style rental app using React-Native JS 
  ### 📫 Email: adamdicioccio@gmail.com
  ### 🌐 Website: https://dicioccio.me/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adicioccio&label=Profile%20views&color=0e75b6&style=flat" alt="adicioccio" /> </p>
-
-- 🔭 I’m currently working on **Unreal Engine 5**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
