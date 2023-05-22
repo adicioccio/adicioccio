@@ -4,7 +4,7 @@
  
 <h3>🎓Alumni: Algonquin College - Computer Engineering Technologies and Computing Sciences</h3>
 <h3>🌱 Currently Working On: VueJS Portfolio Website, Data scraping and automation, ThreeJS</h3>
-<h3>📫 Email: adamdicioccio@gmail.com</h3>
+<h3>📫 Email: <a href="mailto:adamdicioccio@gmail.com">adamdicioccio@gmail.com</a></h3>
 <h3>🌐 Website: <a href="http://adamdicioccio.com/">adamdicioccio.com</a></h3>
 
 <h3 align="left">Connect with me</h3>
