@@ -2,7 +2,7 @@
 =====
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adicioccio&label=Profile%20views&color=0e75b6&style=flat" alt="adicioccio" /> </p>
  
-<h3>🎓Alumni: Algonquin College - Computer Engineering Technologies and Computing Sciences</h3>
+<h3>🎓Alumni: Algonquin College - Adv. Diploma in Computer Engineering Technologies and Computing Sciences</h3>
 <h3>🌱 Currently Working On: VueJS Portfolio Website, Data scraping and automation, ThreeJS</h3>
 <h3>📫 Email: <a href="mailto:adamdicioccio@gmail.com">adamdicioccio@gmail.com</a></h3>
 <h3>🌐 Website: <a href="http://adamdicioccio.com/">adamdicioccio.com</a></h3>
