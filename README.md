@@ -7,7 +7,6 @@
 <h3>📫 Email: <a href="mailto:adamdicioccio@gmail.com">adamdicioccio@gmail.com</a></h3>
 <h3>🌐 Website: <a href="http://adamdicioccio.com/">adamdicioccio.com</a></h3>
 
-<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adam-di-cioccio-9935631ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam di cioccio" height="30" width="40" /></a>
 </p>
