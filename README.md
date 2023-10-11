@@ -1,6 +1,6 @@
 `👋 Hi there, I'm Adam Di Cioccio!`
 =====
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adicioccio&label=Profile%20views&color=0e75b6&style=flat" alt="adicioccio" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=adicioccio&label=Profile%20views&color=0e75b6&style=flat" alt="adicioccio" /> </p>-->
  
 <h3>🎓 Alumni: Algonquin College - Adv. Diploma in Computer Engineering Technologies and Computing Sciences</h3>
 <h3>🌱 Currently Working On: Just Appraised, Front-end freelancing, robotics</h3>
