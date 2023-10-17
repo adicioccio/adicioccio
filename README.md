@@ -2,7 +2,7 @@
 =====
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adicioccio&label=Profile%20views&color=0e75b6&style=flat" alt="adicioccio" /> </p>
  
-🎓 Alumni: Algonquin College - Adv. Diploma in Computer Engineering Technologies and Computing Sciences
+🎓 Alumni: Algonquin College - Adv. Diploma in Computer Engineering Technologies and Computing Sciences<br>
 🌱 Currently Working On: Just Appraised, Front-end freelancing, robotics
 📫 Email: <a href="mailto:adamdicioccio@gmail.com">adamdicioccio@gmail.com</a>
 🌐 Website: <a href="http://adamdicioccio.com/">adamdicioccio.com</a>
