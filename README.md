@@ -2,10 +2,10 @@
 =====
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adicioccio&label=Profile%20views&color=0e75b6&style=flat" alt="adicioccio" /> </p>
  
-🎓 Alumni: Algonquin College - Adv. Diploma in Computer Engineering Technologies and Computing Sciences<br>
-🌱 Currently Working On: Just Appraised, Front-end freelancing, robotics
-📫 Email: <a href="mailto:adamdicioccio@gmail.com">adamdicioccio@gmail.com</a>
-🌐 Website: <a href="http://adamdicioccio.com/">adamdicioccio.com</a>
+<h2>🎓 Alumni: Algonquin College - Adv. Diploma in Computer Engineering Technologies and Computing Sciences</h2>
+<h2>🌱 Currently Working On: Just Appraised, Front-end freelancing, robotics</h2>
+<h2>📫 Email: <a href="mailto:adamdicioccio@gmail.com">adamdicioccio@gmail.com</a></h2>
+<h2>🌐 Website: <a href="http://adamdicioccio.com/">adamdicioccio.com</a></h2>
 <!-- <br> -->
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/adam-di-cioccio-9935631ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam di cioccio" height="30" width="40" /></a>
