@@ -5,7 +5,7 @@
 <h2>🎓 Alumni: Algonquin College - Adv. Diploma in Computer Engineering Technologies and Computing Sciences</h2>
 <h2>🌱 Currently Working On: Stax Bill, LLM prototypes and portfolio website.</h2>
 <h2>📫 Email: <a href="mailto:adamdicioccio@gmail.com">adamdicioccio@gmail.com</a></h2>
-<h2>🌐 Website: <a href="http://adamdicioccio.com/">adamdicioccio.com</a></h2>
+<h2>🌐 Website: <a href="https://adamdicioccio.com/">adamdicioccio.com</a></h2>
 <!-- <br> -->
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/adam-di-cioccio-9935631ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam di cioccio" height="30" width="40" /></a>
