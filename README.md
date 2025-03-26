@@ -2,7 +2,7 @@
 =====
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adicioccio&label=Profile%20views&color=0e75b6&style=flat" alt="adicioccio" /> </p>
  
-<h2>🎓 Alumni: Algonquin College - Adv. Diploma in Computer Engineering Technologies and Computing Sciences</h2>
+<h2>🎓 Adv. Diploma in Computer Engineering Technologies and Computing Sciences @ Algonquin College</h2>
 <h2>🌱 Currently Working On: Stax Bill, LLM prototypes and portfolio website.</h2>
 <h2>📫 Email: <a href="mailto:adamdicioccio@gmail.com">adamdicioccio@gmail.com</a></h2>
 <h2>🌐 Website: <a href="https://adamdicioccio.com/">adamdicioccio.com</a></h2>
